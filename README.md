@@ -1,5 +1,3 @@
-# dlgpals
-
 1. Education
 
 2. Skils
